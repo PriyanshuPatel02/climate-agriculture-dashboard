@@ -51,6 +51,10 @@ It demonstrates how data-driven insights can support **policy decisions** and he
 streamlit run app.py
 <img width="1920" height="1020" alt="Screenshot 2025-12-18 231715" src="https://github.com/user-attachments/assets/7d3826b8-d02d-4922-a147-7f55c04105b2" />
 <img width="1845" height="898" alt="a2" src="https://github.com/user-attachments/assets/40fe4d66-b2cb-4963-9193-ccde31d5464f" />
+<img width="1750" height="808" alt="a5" src="https://github.com/user-attachments/assets/b30aad6c-4c4f-436f-b09c-519766931579" />
+<img width="1780" height="858" alt="a4" src="https://github.com/user-attachments/assets/de45903b-5215-457e-8db9-bea38be82a38" />
+<img width="1752" height="822" alt="a3" src="https://github.com/user-attachments/assets/57b85b70-a06f-4a98-9e16-af0fbf4e0f48" />
+
 
 
 
